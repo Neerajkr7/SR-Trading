@@ -1,0 +1,129 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	width: 100%;
+	height: 100%;
+	background-color: #fffffe;
+}
+.navbar
+{
+
+}	
+.navbar-default
+{
+	padding-right: 1.5%;
+	padding-left: 1%;
+	position: unset;
+	width: 100%;
+	height: 50px !important;
+	background-color:rgba(255,255,255,0.8);
+	border-color:#ffffff;
+	position: unset;
+	border-bottom: 0.5px solid #8cc63e;
+}
+
+.navbar-default a
+{
+
+}
+a .logo img
+{
+	padding-left: 1% !important;
+}
+a:hover
+{
+color: #8cc63e !important;
+}
+a:active
+{
+	color: #ff0000 !important;
+}
+a:visited
+{
+	color: #9A12B3 !important;
+}
+
+.neeruz-sec
+{
+	padding-top: 1%;
+	padding-left: 2.5%;
+	height: 21vh;
+	line-height:22px;
+	color: #8cc63e;
+}
+
+.img-para
+{
+	mar-top: 2%;
+	margin-left: 1%;
+	display: flex;
+	padding: 1%;
+}
+.image img
+{
+	width: 80px !important;
+	height: auto !important;
+}
+.
+p
+{
+	color: #8cc63e;
+}
+li
+{
+	margin-bottom: 1%;
+	text-align:justify;
+	word-break: break-all;
+}
+
+.ingredients
+{
+	border-bottom: 0.5px solid #ffffff;
+	background-color:#efefef;
+	color: #ffffff;
+	padding:1%;
+	height:auto;
+
+}
+
+.ingredients h4
+{
+	color: #22313f !important;
+	font-family: Segoe UI;
+	font-weight: 700;
+}
+table td
+{
+	border: none !important;
+}
+table th
+{
+	border-bottom:0.5px solid #ffffff !important;
+}
+.ingredients table td
+{
+	text-align: left !important;
+}
+.footer
+{
+	height: 8vh;
+	background-color: #313A4B;
+	padding: 10px;
+	line-height: 22px;
+}
+.footer a
+{
+	color: #ffffff !important;
+	margin-left: 1%;
+	vertical-align: center;
+}
+.footer a img
+{
+	width: 20px;
+	height: 20px;
+}
+
